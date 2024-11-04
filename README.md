@@ -31,7 +31,7 @@ Tools       │ VSCode
 ### 🤝 Connect With Me
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)]([https://linkedin.com/in/sandeep-vaz-447662283])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)]([https://linkedin.com/in/sandeep-vaz-447662283/])
 
 </div>
 
