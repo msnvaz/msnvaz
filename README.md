@@ -15,7 +15,7 @@
 
 ### 🛠️ Technologies & Tools
 ```text
-Frontend    │ JavaScript, HTML5, CSS3
+Frontend    │ JavaScript, HTML5, CSS3,React
 Backend     │ php, java
 Tools       │ VSCode
 ```
