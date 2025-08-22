@@ -14,18 +14,7 @@
 
 ## 🚀 About Me
 
-javascript
-const sandeep = {
-    role: "Software Developer",
-    currentFocus: "Second Year Group Project",
-    learning: ["Java", "PHP", "Python"],
-    interests: ["Full-Stack Development", "Open Source", "Problem Solving"],
-    collaboration: "Always open to interesting projects!",
-    askMeAbout: ["Web Development", "Programming", "Tech Trends"]
-};
-
-
-- 🔭 *Currently Working On:* My second year group project - building something amazing!
+- 🔭 *Currently Working On:* My third year group project - building something amazing!
 - 🌱 *Learning Journey:* Expanding my skills in Java, PHP, and Python
 - 👯 *Open to Collaborate:* Interesting open-source projects and innovative solutions
 - 💬 *Ask Me About:* Web development, programming challenges, or just tech in general
