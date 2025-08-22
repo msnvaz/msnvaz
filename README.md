@@ -8,15 +8,15 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on My second year group project
-- 🌱 I'm currently learning java,php
+- 🔭 I'm currently working on my second year group project
+- 🌱 I'm currently learning java,php and python
 - 👯 I'm looking to collaborate on interesting open-source projects
 - 📫 How to reach me: vazsandeep@gmail.com
 
 ### 🛠️ Technologies & Tools
 ```text
-Frontend    │ JavaScript, HTML5, CSS3,React
-Backend     │ php, java
+Frontend    │ JavaScript, HTML5, CSS3, React
+Backend     │ php, java, python
 Tools       │ VSCode
 ```
 
