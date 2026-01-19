@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎓 *Third-year B.Sc. in Information Systems (Hons)* at the University of Colombo School of Computing (GPA: 3.63/4.0)  
+- 🎓 *Third-year B.Sc. in Information Systems (Hons)* at the University of Colombo School of Computing
 - 🤖 Passionate about AI-driven solutions, machine learning, and human-computer interaction  
 - 🧠 Experienced in Python, R, and FastAPI with hands-on work in predictive analytics and intelligent systems  
 - 💬 *Ask Me About:* Web app development, ML models, and real-time AI integration  
